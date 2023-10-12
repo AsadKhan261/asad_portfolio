@@ -21,7 +21,7 @@ class DataValues {
   static Uri sponJobUrl = Uri.parse('https://www.sponjobs.com');
   static Uri dotUrl = Uri.parse('https://www.linkedin.com/in/dot-coder-79b519218/');
   static Uri repoURL =
-      Uri.parse('https://github.com/AsadKhan261/asadkhan.dev.git');
+      Uri.parse('https://github.com/AsadKhan261/asad_portfolio');
 
   // Header
   static const String headerGreetings = 'Hello, World! I\'m';
@@ -133,7 +133,7 @@ class DataValues {
 
   static const String dotCoder = 'DotCoder (Pakistan)';
   static const String dotCoderRole = 'Flutter Developer';
-  static const String dotYear = 'Jan 2023 - Continue (Remote)';
+  static const String dotYear = 'Jan 2023 - Continue';
   static const String dotExp =
       'Android, Flutter, Dart, Firebase, Git, REST API,';
 
