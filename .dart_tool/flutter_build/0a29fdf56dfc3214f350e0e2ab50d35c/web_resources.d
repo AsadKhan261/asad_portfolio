@@ -1,1 +1,1 @@
- build/web/index.html build/web/icons/favicon.ico build/web/manifest.json:  /Users/asadkhan/Documents/asadkhan.dev/web/index.html /Users/asadkhan/Documents/asadkhan.dev/web/icons/favicon.ico /Users/asadkhan/Documents/asadkhan.dev/web/manifest.json
+ build/web/index.html build/web/icons/favicon.ico build/web/manifest.json:  /Users/asadkhan/Desktop/projects/asad_portfolio/web/index.html /Users/asadkhan/Desktop/projects/asad_portfolio/web/icons/favicon.ico /Users/asadkhan/Desktop/projects/asad_portfolio/web/manifest.json
